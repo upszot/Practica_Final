@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1530045970 source:c:\test\gferrer\parcial2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529695821 c:\test\gferrer\parcial2\arraylist.h
+
+1530045970 source:c:\test\gferrer\parcial2\genericas.c
+	"genericas.h"
+
+1529696179 c:\test\gferrer\parcial2\genericas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530308664 source:c:\test\gferrer\parcial2\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1530309080 c:\test\gferrer\parcial2\estructura.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"genericas.h"
+
+1530302747 source:c:\test\gferrer\parcial2\parser.c
+
+1530308658 source:c:\test\gferrer\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1530323930 source:e:\documentos\tecnicatura\programacion\parcial2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530323930 e:\documentos\tecnicatura\programacion\parcial2\arraylist.h
+
+1530330544 source:e:\documentos\tecnicatura\programacion\parcial2\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1530328653 e:\documentos\tecnicatura\programacion\parcial2\estructura.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"genericas.h"
+
+1530323930 e:\documentos\tecnicatura\programacion\parcial2\genericas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530323930 source:e:\documentos\tecnicatura\programacion\parcial2\genericas.c
+	"genericas.h"
+
+1530327024 source:e:\documentos\tecnicatura\programacion\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1530323930 source:e:\documentos\tecnicatura\programacion\parcial2\parser.c
+
+1530323930 source:e:\documentos\tecnicatura\programacion\practica_final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530323930 e:\documentos\tecnicatura\programacion\practica_final\arraylist.h
+
+1532659900 source:e:\documentos\tecnicatura\programacion\practica_final\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1532662934 e:\documentos\tecnicatura\programacion\practica_final\estructura.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"genericas.h"
+
+1532658706 e:\documentos\tecnicatura\programacion\practica_final\genericas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532658706 source:e:\documentos\tecnicatura\programacion\practica_final\genericas.c
+	"genericas.h"
+
+1532662934 source:e:\documentos\tecnicatura\programacion\practica_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1532661282 source:e:\documentos\tecnicatura\programacion\practica_final\complemento_arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+	"Complemento_ArrayList.h"
+
+1532661047 e:\documentos\tecnicatura\programacion\practica_final\complemento_arraylist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
